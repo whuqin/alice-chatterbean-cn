@@ -1,0 +1,3 @@
+支持aiml的alice聊天机器人
+chatterbean实现了aiml，但不支持中文，需要做些改动，该代码是改动后的
+另外提供了一些中文aiml
